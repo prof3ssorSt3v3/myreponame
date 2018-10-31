@@ -1,0 +1,14 @@
+{
+  "main.css": "/myreponame/static/css/main.3aededde.chunk.css",
+  "main.js": "/myreponame/static/js/main.74e55c96.chunk.js",
+  "main.js.map": "/myreponame/static/js/main.74e55c96.chunk.js.map",
+  "static/js/1.a700ff87.chunk.js": "/myreponame/static/js/1.a700ff87.chunk.js",
+  "static/js/1.a700ff87.chunk.js.map": "/myreponame/static/js/1.a700ff87.chunk.js.map",
+  "runtime~main.js": "/myreponame/static/js/runtime~main.e0ae0b36.js",
+  "runtime~main.js.map": "/myreponame/static/js/runtime~main.e0ae0b36.js.map",
+  "static/media/logo.svg": "/myreponame/static/media/logo.5d5d9eef.svg",
+  "static/css/main.3aededde.chunk.css.map": "/myreponame/static/css/main.3aededde.chunk.css.map",
+  "index.html": "/myreponame/index.html",
+  "precache-manifest.a041ccf822b67c0dff759d99fe6b6043.js": "/myreponame/precache-manifest.a041ccf822b67c0dff759d99fe6b6043.js",
+  "service-worker.js": "/myreponame/service-worker.js"
+}
